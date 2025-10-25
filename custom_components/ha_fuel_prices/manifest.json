@@ -1,15 +1,10 @@
 {
-  "domain": "fuel_prices",
-  "name": "Fuel Prices",
-  "version": "1.0.0",
-  "config_flow": true,
-  "documentation": "https://github.com/dougbaptista/ha_fuel_prices",
-  "requirements": [
-      "aiohttp",
-      "pandas",
-      "openpyxl",
-      "beautifulsoup4"
-  ],
-  "codeowners": ["@dougbaptista"],
-  "iot_class": "cloud_polling"
+	"domain": "fuel_prices",
+	"name": "Fuel Prices",
+	"version": "1.0.0",
+	"config_flow": true,
+	"documentation": "https://github.com/hyoretsu/ha_fuel_prices",
+	"requirements": ["aiohttp", "pandas", "openpyxl", "beautifulsoup4"],
+	"codeowners": ["@dougbaptista"],
+	"iot_class": "cloud_polling"
 }
