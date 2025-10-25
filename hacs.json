@@ -3,7 +3,7 @@
   "content_in_root": false,
   "domain": "ha_fuel_prices",
   "country": "BR",
-  "homeassistant": "2023.1.0",
+  "homeassistant": "2025.10.0",
   "render_readme": true,
   "zip_release": false,
   "filename": "custom_components/ha_fuel_prices",
